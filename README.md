@@ -27,7 +27,7 @@ report — they no longer gate the flag/no-flag decision.
 
 1. **Clone and enter the repo:**
    ```
-   git clone <this-repo-url>
+   git clone https://github.com/Nathnael6465/yahooMailCleaner.git
    cd yahooMailCleaner
    ```
 
