@@ -1,0 +1,21 @@
+# Personal scan/action data — never share another user's inbox contents
+*.json
+
+# Personal trusted-domain list — allowlist.example.txt is the template
+# other developers should copy from instead
+allowlist.txt
+allowlist_candidates.txt
+rejected_domains.txt
+
+# Scratch notes from local perf-tuning runs
+note.txt
+
+# Credentials, if a .env is ever added
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/

@@ -1,0 +1,10 @@
+# Allowlist — one entry per line, either a full email address or a bare domain.
+# Anything listed here is NEVER flagged or acted on, no matter what rule in
+# cleanup/classify.py would otherwise match (FR5).
+#
+# This is a template. Copy it to allowlist.txt and edit that copy — main.py
+# reads allowlist.txt by default (see the --allowlist flag).
+#
+# Examples:
+# somebrand.com
+# newsletter@somebrand.com
